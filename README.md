@@ -5,6 +5,6 @@
 
 # CSS
 
-# Java Script
+# JavaScript
 
 
